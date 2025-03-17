@@ -1,4 +1,37 @@
-Salve Dev, Sou o Hebert!!<br><br>
+Salve Dev, Sou o !!<br><br>
+# [Hebert Oliveira]
+
+👋 Olá! Sou um profissional entusiasta da tecnologia, com experiência prática no desenvolvimento de soluções completas, desde o back-end até o front-end. Minha paixão por criar sistemas eficientes e de alta qualidade me motiva a buscar constantemente novos desafios e aprimorar minhas habilidades.
+
+## 🛠️ Tecnologias e Habilidades
+
+- **Linguagens de Programação:** Python, Java, PHP
+- **Desenvolvimento Web:** HTML, CSS
+- **Banco de Dados:** MySQL
+- **APIs:** Desenvolvimento e integração de APIs
+- **Controle de Versão:** Git
+- **Metodologias Ágeis:** Experiência em práticas ágeis para garantir eficiência e qualidade no desenvolvimento de software
+
+## 🚀 Projetos Destacados
+
+- **Sistema de Gerenciamento Completo:** Desenvolvimento de uma solução full-stack para gerenciamento de tarefas, integrando back-end robusto com interface front-end intuitiva.
+- **API de Integração:** Criação e integração de APIs para conectar sistemas e melhorar a comunicação entre diferentes plataformas.
+- **Aplicação Web Responsiva:** Desenvolvimento de uma aplicação web com design responsivo, garantindo uma experiência de usuário consistente em todos os dispositivos.
+
+## 🌱 Aprendizado Contínuo
+
+Estou sempre buscando aprender novas tecnologias e metodologias para me manter atualizado no mercado de tecnologia. Atualmente, estou explorando:
+
+- Frameworks modernos para desenvolvimento front-end e back-end
+- Boas práticas de DevOps para melhorar a integração e entrega contínua
+
+## 📫 Como Me Encontrar
+
+- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **GitHub:** [Seu GitHub](https://github.com/seu-usuario)
+- **E-mail:** seu.email@example.com
+
+Fique à vontade para entrar em contato comigo para colaborações, oportunidades ou apenas para bater um papo sobre tecnologia! 😊
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebert-oliveira-24a8aa2b3)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCD3IZ63lgIP0vqmbHHgZoNg)<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebSODev&theme=dark&show_icons=true)<br>
