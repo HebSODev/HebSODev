@@ -39,7 +39,6 @@ Estou sempre buscando aprender novas tecnologias e metodologias para me manter a
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebert-oliveira-24a8aa2b3)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCD3IZ63lgIP0vqmbHHgZoNg)<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebSODev&theme=dark&show_icons=true)
 
 Fique à vontade para entrar em contato comigo para colaborações, oportunidades ou apenas para bater um papo sobre tecnologia! 😊
 <br>
