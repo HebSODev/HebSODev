@@ -42,6 +42,6 @@ Estou sempre buscando aprender novas tecnologias e metodologias para me manter a
 
 Fique à vontade para entrar em contato comigo para colaborações, oportunidades ou apenas para bater um papo sobre tecnologia! 😊
 <br>
-Tecnologias:
+
 
 
